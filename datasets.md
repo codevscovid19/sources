@@ -15,9 +15,9 @@ Note: If you have a link, where data might be, but you have not checked yet if t
 
 ### Link
 
-### Description
+https://github.com/CSSEGISandData/COVID-19
 
-### Additional Information
+### Description
 
 This is the gold-standard dataset.
 Anything added should have additional information.
@@ -89,7 +89,6 @@ https://github.com/green512/2019nCoV
 
 Seems to be very detailed location-wise, but not up-to-date.
 
-
 ## Novel-Coronavirus-Updates
 
 ### Link
@@ -100,6 +99,16 @@ https://github.com/839Studio/Novel-Coronavirus-Updates
 
 Some of the cases have cities as features. The data seems to be up to date (March 3, 2020).
 My Chinese is kind of "rusty" though (joke, since "rusty" = "basically non existent anymore").
+
+## News articles on the web
+
+### Link
+
+https://github.com/839Studio/Novel-Coronavirus-Updates
+
+### Description
+
+Provides an up-to-date list of new articles on the web
 
 # Links to possible sources - yet to be validated
 
