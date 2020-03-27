@@ -89,6 +89,18 @@ https://github.com/green512/2019nCoV
 
 Seems to be very detailed location-wise, but not up-to-date.
 
+
+## Novel-Coronavirus-Updates
+
+### Link
+
+https://github.com/839Studio/Novel-Coronavirus-Updates
+
+### Description
+
+Some of the cases have cities as features. The data seems to be up to date (March 3, 2020).
+My Chinese is kind of "rusty" though (joke, since "rusty" = "basically non existent anymore").
+
 # Links to possible sources - yet to be validated
 
 - https://www.stern.de/gesundheit/coronavirus-news--aktuelle-zahlen-aus-allen-staedten-und-kreisen-in-deutschland-9197696.html

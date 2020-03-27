@@ -1,0 +1,3 @@
+- https://www.healthmap.org/covid-19/
+- https://www.southern-stg.xyz/covid-19/index.html
+- 

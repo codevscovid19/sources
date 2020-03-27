@@ -1,0 +1,1 @@
+The article https://www.spiegel.de/netzwelt/netzpolitik/covid-19-in-suedkorea-dem-virus-digital-auf-der-spur-a-50ef1096-ce69-465e-885c-bc77b3443feb?utm_source=pocket-newtab links to very detailed sources of data for South Korea.
