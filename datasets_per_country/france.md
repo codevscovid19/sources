@@ -12,3 +12,5 @@ Other data is available at
 - Re-animation: https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=covid_hospit.rea&s=2020-03-26&t=a01&view=map2
 - Death: https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=covid_hospit.dc&s=2020-03-26&t=a01&view=map2
 - Returned back home: https://geodes.santepubliquefrance.fr/#c=indicator&f=0&i=covid_hospit.rad&s=2020-03-26&t=a01&view=map2
+
+Time series might actually be easiest to obtain from https://www.worldometers.info/coronavirus/country/france/
