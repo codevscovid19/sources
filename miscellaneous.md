@@ -33,4 +33,3 @@ https://airtable.com/shrPm5L5I76Djdu9B/tblETFnlS4caNKHYS/viwFSzXIjs40Anp5a?block
 
 Problem descriptions of problem of codevscovid19.org
 The problems 153, 154 - 156, 159, 161 are basically the foundation for our work.
-
