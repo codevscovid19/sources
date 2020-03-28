@@ -10,7 +10,7 @@ data_url = data_url_head + data_file_name
 
 try :
   subprocess . check_call ([ "wget", "--no-check-certificate", "--content-disposition", data_url ])
-except (CalledProcessError) :
+except (FileNotFoundError) :
   subprocess . check_call ([ "curl", "-LJ0", data_url, "-o", data_file_name ])
 
 
