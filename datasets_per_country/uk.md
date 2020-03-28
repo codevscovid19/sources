@@ -7,4 +7,6 @@ For each day and each country (England, Nothern Ireland, Scotland, Wales): new n
 
 Note: unfortunately the only local data available is the number of confirmed cases.
 Note: not information about recoveries (only cumulated number of cases)
+Note: there are two files
+
 
