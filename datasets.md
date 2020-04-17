@@ -110,6 +110,24 @@ https://github.com/839Studio/Novel-Coronavirus-Updates
 
 Provides an up-to-date list of new articles on the web
 
+## Testing
+
+### Link
+
+https://ourworldindata.org/covid-testing
+
+### Description
+
+Data on how much testing has been done where.
+
+## Fusionbase: Measurements
+
+https://webconnector.fusionbase.io/isos
+
+## APIFY - all countries
+
+https://apify.com/covid-19
+
 # Links to possible sources - yet to be validated
 
 - https://www.stern.de/gesundheit/coronavirus-news--aktuelle-zahlen-aus-allen-staedten-und-kreisen-in-deutschland-9197696.html
@@ -118,3 +136,7 @@ Provides an up-to-date list of new articles on the web
 - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 - https://covid19tracking.narrativa.com/index_en.html
 - https://www.kaggle.com/gianlab/intensive-care-forecasts-in-italy
+
+- https://documenter.getpostman.com/view/8854915/SzS7R6uu?version=latest#e06bbf79-c150-4851-8a42-6a7faafa0f7e
+- https://documenter.getpostman.com/view/8854915/SzS7R74n?version=latest#08adba6b-8533-42c2-a30f-bdb00eac5925
+- https://documenter.getpostman.com/view/4074074/SzS7Pkup?version=latest#63cbe0bc-5664-48da-96f5-e750e8cac566
