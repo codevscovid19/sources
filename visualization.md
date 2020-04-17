@@ -5,6 +5,7 @@
 
 # Other maps
 
+- https://npgeo-corona-npgeo-de.hub.arcgis.com/
 - https://www.healthmap.org/covid-19/
 - https://www.southern-stg.xyz/covid-19/index.html
 - https://public.tableau.com/profile/ihph.geohealth.centre#!/vizhome/202003170145WorldMapEXTRACT_15845164786550/Story1
