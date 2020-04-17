@@ -22,3 +22,9 @@ Code: https://github.com/gabgoh/epcalc
 # Graphs
 
 - https://covidgraph.org/
+
+## Simulation from New York Times: Importance of social distancing
+
+### Link 
+
+https://www.nytimes.com/interactive/2020/04/14/science/coronavirus-transmission-cough-6-feet-ar-ul.html
