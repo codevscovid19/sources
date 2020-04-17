@@ -1,0 +1,2 @@
+- https://www.unglobalpulse.org/2020/03/mapping-the-landscape-of-artificial-intelligence-applications-against-covid-19/
+- https://arxiv.org/pdf/2003.11336.pdf
